@@ -1,0 +1,6 @@
+Theme:
+https://github.com/jackharrisonsherlock/common
+
+Plugins:
+https://github.com/zsh-users/zsh-syntax-highlighting
+https://github.com/zsh-users/zsh-autosuggestions
